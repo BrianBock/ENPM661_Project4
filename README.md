@@ -10,5 +10,7 @@ This project code is based on the Baxter demo pick and place code, with a modifi
 
 
 ## Videos
+
 Video 1 - https://youtu.be/ilgzW9aXYDY
+
 Video 2 - https://youtu.be/wfg-YglL9T0
