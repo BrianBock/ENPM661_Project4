@@ -4,4 +4,9 @@ This project is a simple simulation of a pick and place task by a Baxter robot. 
 
 This project code is based on the Baxter demo pick and place code, with a modified environment and commands. The simulation runs in Gazebo 7 on Ubuntu 16.04 and ROS Kinetic.  
 
+## Why we need waypoints?
+
+![Video of baxter punching through obstacle](https://github.com/BrianBock/ENPM661_Project4/blob/master/Images/no_waypoints2.gif)
+
+
 ## Videos
