@@ -6,7 +6,7 @@ This project code is based on the Baxter demo pick and place code, with a modifi
 
 ## Why we need waypoints?
 
-![Video of baxter punching through obstacle](https://github.com/BrianBock/ENPM661_Project4/blob/master/Images/no_waypoints2.gif)
+![Video of baxter punching through obstacle](https://github.com/BrianBock/ENPM661_Project4/blob/master/images/no_waypoints2.gif)
 
 
 ## Videos
